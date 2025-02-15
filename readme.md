@@ -27,9 +27,9 @@
 
 ## 🚀 Projects
 
-1. [Portfolio](https://www.abhimanyupayasi.me)
-2. [PM Logistics Transport Company](https://www.pmlogistics.site)
-3. [DHD Foundation](https://www.dreamhopedevelopment.org)
+1. [Portfolio](https://www.abhimanyu.tech)
+2. [PM Logistics Transport Company](https://pmltc.abhimanyu.tech)
+3. [DHD Foundation](https://dhd.abhimanyu.tech)
 4. [Blog](https://blog.abhimanyupayasi.me)
 
 ## 👩‍💻 Repositories
